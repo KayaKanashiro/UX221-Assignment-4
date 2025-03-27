@@ -1,0 +1,15 @@
+/*
+Theme Name:     Minecraft
+Description:    this is my child theme for my assignment 4
+Author:         kkanashiro
+Template:       twentytwentyfive
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+h1{
+    color:#9070ad
+}
+h2{
+    color:#1f7c7c
+}

@@ -72,6 +72,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/cute-minecraft-mods/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/minecraft-skins/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>

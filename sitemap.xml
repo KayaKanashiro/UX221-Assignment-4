@@ -47,6 +47,31 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/buy-minecraft/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/hive-minecraft-server/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/mizuno-craft-texture-pack/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
